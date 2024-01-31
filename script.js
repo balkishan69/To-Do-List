@@ -1,4 +1,4 @@
-// To-Do List JavaScript logic here
+
 
 const taskInput = document.getElementById('task');
 const taskTimeInput = document.getElementById('task-time');
